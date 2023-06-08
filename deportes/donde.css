@@ -1,0 +1,23 @@
+table{
+    border: 2px solid rgb(10, 146, 180);
+
+
+}
+th,td {
+    border: 2px solid rgb(10, 146, 180);
+    border-collapse: collapse;
+}
+th {
+    text-align: center;
+    background-color: rgb(7, 63, 7);
+    font-weight: bold;
+    color: rgb(110, 184, 110);
+    border-collapse: collapse;
+}
+td {
+    background-color: rgb(110, 184, 110);
+    border-collapse: collapse;
+}
+.darkgreen td{
+    background-color: rgb(77, 128, 77);
+}
