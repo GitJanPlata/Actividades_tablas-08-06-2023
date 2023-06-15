@@ -1,0 +1,21 @@
+table,th,td{
+    border: 2px double rgb(0, 0, 0);
+    border-collapse: collapse;
+    text-align: center;
+    color: brown;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.green{
+    background-color: rgb(120, 167, 120);
+}
+.orange{
+    background-color: rgb(253, 184, 56);
+}
+.size{
+    background-color: rgb(248, 248, 110);
+}
+.stamp{
+background-image: url(https://us.123rf.com/450wm/homodans/homodans1404/homodans140400055/27905514-modelos-incons%C3%BAtiles-con-estampados-coloridos-de-gato-y-perro.jpg);
+}

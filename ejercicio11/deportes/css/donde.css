@@ -1,23 +1,21 @@
-table{
-    border: 2px solid rgb(10, 146, 180);
 
-
-}
-th,td {
+table,th,td {
     border: 2px solid rgb(10, 146, 180);
     border-collapse: collapse;
 }
-th {
+table {
+    outline: 5px outset rgb(223, 222, 222);
+}
+th, .table-header {
     text-align: center;
     background-color: rgb(7, 63, 7);
     font-weight: bold;
     color: rgb(110, 184, 110);
-    border-collapse: collapse;
 }
 td {
     background-color: rgb(110, 184, 110);
-    border-collapse: collapse;
 }
+
 .darkgreen td{
     background-color: rgb(77, 128, 77);
 }
