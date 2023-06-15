@@ -9,7 +9,7 @@ body{
 }
 
 .container > div {
-    width: calc(25% - 20px); 
+    width: calc(20% - 20px); 
     padding: 10px; 
     margin: 10px;
     aspect-ratio: 1/1;
